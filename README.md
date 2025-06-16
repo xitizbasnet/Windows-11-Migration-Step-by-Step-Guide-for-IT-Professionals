@@ -108,8 +108,3 @@ We’ve got real-world templates and workflows to help.
 
 ---
 
-### 🔖 Tags
-
-`#Windows11Migration` `#ITAutomation` `#PowerShell` `#ModernWorkplace` `#SCCM` `#Intune` `#WindowsUpgrade` `#EndpointManagement` `#Cybersecurity`
-
----
